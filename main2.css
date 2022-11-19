@@ -32,7 +32,7 @@ body{
   }
   
   body {
-    background-color:rgb(222, 145, 208);
+    background-color:rgb(221, 143, 207);
     background-image: url('https://img.thuthuatphanmem.vn/uploads/2018/11/07/anh-dep-ve-mua-dong_104447143.jpg'); 
     background-repeat: no-repeat;
     background-size: 5960px 2980px;
@@ -74,12 +74,12 @@ body{
     0% {
       bottom: -0.7em;
       opacity: 1;
-      color:rgb(14, 122, 122);
+      color:rgb(19, 182, 92);
     }
     
     50% {
       bottom: 0.7em;
-      color:rgb(221, 42, 10);
+      color:rgb(236, 64, 34);
     }
   
     100% {
