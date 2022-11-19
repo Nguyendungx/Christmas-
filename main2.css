@@ -3,7 +3,7 @@ body{
     margin: 0;
   }
   h1{
-    position: fixed;
+    position: absolute;
     top: 50%;
     left: 0;
     width: 100%;
@@ -35,7 +35,7 @@ body{
     background-color:rgb(221, 143, 207);
     background-image: url('https://img.thuthuatphanmem.vn/uploads/2018/11/07/anh-dep-ve-mua-dong_104447143.jpg'); 
     background-repeat: no-repeat;
-    background-size: 1535px 745px;
+    background-size: 100% 250%;
     color: rgba(228, 212, 226, 0.3); font-size: 40px; height: 300px; width: 400px;
   }
   
@@ -46,10 +46,10 @@ body{
     text-align: center;
     margin-top: 2em;
     font-weight: 600;
-    position: fixed;
-    top: 360px;
-    left: 250px;
-    width: 1000px;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    width: 100%;
     text-align: center;
     transform:translateY(-200%);
     
@@ -57,6 +57,7 @@ body{
   
   h1 span {
     display: inline-block;
+
   }
   
   h1 span span{
